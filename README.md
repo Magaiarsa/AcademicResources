@@ -3,6 +3,8 @@ Welcome to the Undergrad mentoring wiki! My goal is to centralize resources to a
 ### On manuscript writing and organization
 * [How to structure your manuscript](https://www.elsevier.com/connect/11-steps-to-structuring-a-science-paper-editors-will-take-seriously)
 * [Scientific Writing Made Easy: A Step- by- Step Guide to Undergraduate Writing in the Biological Sciences](https://esajournals.onlinelibrary.wiley.com/doi/epdf/10.1002/bes2.1258)
+* [11 steps to structuring a science paper editors will take seriously](https://www.elsevier.com/connect/11-steps-to-structuring-a-science-paper-editors-will-take-seriously)
+* [Writing a scientific research article](http://www.columbia.edu/cu/biology/ug/research/paper.html)
 
 ### On scientific writing 
 * [The Elements of Style](https://www.amazon.com/dp/B01N1W9UQM/ref=rdr_ext_sb_ti_sims_1), by William Strunk Jr. Amazing book to improve your writing skills (for native and non-native English speakers)
