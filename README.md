@@ -16,4 +16,5 @@ You can start by reading [How to get the mentoring you want](https://rackham.umi
 * [How to mentor graduate students: a guide for faculty](https://rackham.umich.edu/wp-content/uploads/2018/11/Fmentoring.pdf)
 
 ### Other stuff
-* [How to choose a good scientifi problem](https://www.cell.com/molecular-cell/fulltext/S1097-2765(09)00641-8?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS1097276509006418%3Fshowall%3Dtrue)
+* [How to choose a good scientific problem](https://www.cell.com/molecular-cell/fulltext/S1097-2765(09)00641-8?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS1097276509006418%3Fshowall%3Dtrue)
+* [Learn LaTeX/Overleaf in 30 minutes](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes) (ain't nobody got time for word crashing...)
