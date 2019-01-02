@@ -1,4 +1,4 @@
-My idea with this wiki is to centralize resources to act as a good starting point for undergraduates (_et al._) to write their first scientific paper. There are also resources related to non-native English speakers (my case), online courses that I have enjoyed, and advice on life in the sciences that might be useful for those thinking of pursuing a Masters or a Ph.D. 
+My idea with this wiki is to centralize resources to act as a good starting point for undergraduates (_et al._) to write their first scientific paper. There are also resources related to non-native English speakers (like me), online courses that I have enjoyed, and advice on life in the sciences that might be useful for those thinking of pursuing a path in Academia. I hope it is useful =) 
 
 You can start by reading [How to get the mentoring you want](https://rackham.umich.edu/wp-content/uploads/2018/11/mentoring.pdf)
 
